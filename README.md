@@ -3,11 +3,11 @@ books-collection 给程序员的开源、免费图书集合
 
 To programmer's open source and free books collection.  
 
-In this project, we will constantly update collection, 
-if you are interested, you can continue to focus on, click 
+In this project, we will constantly update collection,
+if you are interested, you can continue to focus on, click
 Watch or Star.
 
-I am improving and expanding the documentation all the time. If you'd like to help this project, please consider corrected, expanding, or adding documentation where you see a need. Every little bit of help you provide in turn improves books-collection.The easiest way to contribute your documentation is to send it to the [Issues](https://github.com/waylau/books-collection/issues) 
+I am improving and expanding the documentation all the time. If you'd like to help this project, please consider corrected, expanding, or adding documentation where you see a need. Every little bit of help you provide in turn improves books-collection.The easiest way to contribute your documentation is to send it to the [Issues](https://github.com/waylau/books-collection/issues)
 
 给程序员的开源、免费书籍收集，图书集合。
 
@@ -15,7 +15,7 @@ I am improving and expanding the documentation all the time. If you'd like to he
 
 本项目将不断更新收集，如果你感兴趣，可以持续关注, 点 **Watch** 或者 **Star** ,查看[Github中watch、star的用法](http://www.waylau.com/github-use-watch-star-fork/)。
 
-同时，欢迎你提出宝贵的意见，或者投稿。使用 [issues](https://github.com/waylau/books-collection/issues) 
+同时，欢迎你提出宝贵的意见，或者投稿。使用 [issues](https://github.com/waylau/books-collection/issues)
 
 **说明：**标志:us:为英文,:cn:为中文, :arrow_down:为可以下载的附件,
 
@@ -56,7 +56,7 @@ I am improving and expanding the documentation all the time. If you'd like to he
 * Java Servlet 3.1 规范 [:cn:](https://github.com/waylau/servlet-3.1-specification)[:arrow_down:](http://download.oracle.com/otndocs/jcp/servlet-3_1-fr-eval-spec/index.html)
 * [JSSE 参考指南](https://github.com/waylau/jsse-reference-guide)
 * [Spring Boot参考指南](https://github.com/qibaoguang/Spring-Boot-Reference-Guide)
-* [Java 编程要点](https://github.com/waylau/essential-java) 
+* [Java 编程要点](https://github.com/waylau/essential-java)
 * [Java 虚拟机规范](https://github.com/waylau/java-virtual-machine-specification)
 * [Spring Boot 教程](https://github.com/waylau/spring-boot-tutorial)
 * [分布式 Java](https://github.com/waylau/distributed-java)
@@ -75,7 +75,7 @@ I am improving and expanding the documentation all the time. If you'd like to he
 * [Learn Javascript](http://gitbookio.gitbooks.io/javascript/)
 * Less.js [:us:](http://lesscss.org/ ), [:cn:](http://lesscss.net/)
 * Jekyll 文档 [:us:](http://jekyllrb.com/docs/home/), [:cn:](http://jekyllcn.com/docs/home/)
-* [NW.js 入门指南](https://github.com/waylau/nwjs-demos) 
+* [NW.js 入门指南](https://github.com/waylau/nwjs-demos)
 * [Google JavaScript Style Guide](https://google.github.io/styleguide/jsguide.html)
 
 ## NodeJS
@@ -91,7 +91,6 @@ I am improving and expanding the documentation all the time. If you'd like to he
 * [CSS3 教程](https://github.com/waylau/css3-tutorial)
 * [Google HTML/CSS Style Guide](https://google.github.io/styleguide/htmlcssguide.html)
 * [Bootstrap 4 Tutorial](http://www.quackit.com/bootstrap/bootstrap_4/tutorial/)
-
 
 ## 软件工程
 
@@ -135,7 +134,7 @@ I am improving and expanding the documentation all the time. If you'd like to he
 
 ## Mobile Development
 
-* [Apache Cordova 开发指南](https://github.com/waylau/cordova-dev-guide) 
+* [Apache Cordova 开发指南](https://github.com/waylau/cordova-dev-guide)
 
 ## Swift
 

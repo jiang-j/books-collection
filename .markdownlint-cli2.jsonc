@@ -1,0 +1,22 @@
+{
+  // Config for markdownlint-cli2. Rules are relaxed to suit a curated
+  // link-list document rather than prose.
+  "config": {
+    "default": true,
+    // Long link lines are expected in this collection.
+    "MD013": false,
+    // Title uses setext (===) while sections use atx (##); this mix is intentional.
+    "MD003": false,
+    // Allow duplicate sibling headings (e.g. repeated section styles).
+    "MD024": { "siblings_only": true },
+    // A link immediately followed by an emoji tag like [:us:] trips the
+    // reversed-link heuristic; that pattern is valid in this document.
+    "MD011": false,
+    // Bare URLs are fine in a link collection.
+    "MD034": false,
+    // Do not force a single trailing newline style beyond default.
+    "MD047": true
+  },
+  "globs": ["**/*.md"],
+  "ignores": ["node_modules"]
+}

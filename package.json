@@ -1,0 +1,18 @@
+{
+  "name": "books-collection",
+  "version": "1.0.0",
+  "private": true,
+  "description": "给程序员的开源、免费图书集合 (open source and free books collection for programmers)",
+  "type": "module",
+  "scripts": {
+    "lint": "markdownlint-cli2 \"**/*.md\" \"#node_modules\"",
+    "lint:fix": "markdownlint-cli2 --fix \"**/*.md\" \"#node_modules\"",
+    "preview": "node scripts/preview.mjs",
+    "check-links": "node scripts/check-links.mjs"
+  },
+  "devDependencies": {
+    "markdown-it": "^14.1.0",
+    "markdownlint-cli2": "^0.14.0"
+  },
+  "license": "MIT"
+}

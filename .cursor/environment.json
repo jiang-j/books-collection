@@ -1,0 +1,11 @@
+{
+  "name": "books-collection docs",
+  "install": "npm install",
+  "terminals": [
+    {
+      "name": "docs-preview",
+      "command": "npm run preview"
+    }
+  ],
+  "ports": [3000]
+}
